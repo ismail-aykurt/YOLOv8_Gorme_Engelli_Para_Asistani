@@ -13,23 +13,6 @@ Bu proje, **BLG-407 Makine Öğrenmesi** dersi kapsamında geliştirilmiştir. G
 * **Arayüz:** Python & PyQt5
 * **Ses Sentezi:** pyttsx3 (Offline çalışır)
 
-## 📂 Kurulum ve Çalıştırma
-
-1.  Projeyi indirin:
-    ```bash
-    git clone [https://github.com/KULLANICI_ADINIZ/REPO_ADINIZ.git](https://github.com/KULLANICI_ADINIZ/REPO_ADINIZ.git)
-    cd REPO_ADINIZ
-    ```
-
-2.  Gerekli kütüphaneleri kurun:
-    ```bash
-    pip install -r requirements.txt
-    ```
-
-3.  Uygulamayı başlatın:
-    ```bash
-    python gui_app.py
-    ```
 
 ## 📊 Eğitim Sonuçları
 Eğitim Google Colab üzerinde GPU desteği ile 50 Epoch boyunca sürdürülmüştür.
